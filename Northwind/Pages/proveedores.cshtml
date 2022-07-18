@@ -1,0 +1,31 @@
+﻿@page
+@using SampleDataLibrary.Data
+@model NorthwindM.Pages.proveedoresModel
+@{
+}
+
+<div class="row">
+    <h1 class="display-2">Proveedores</h1>
+    <table class="table">
+        <thead class="thead-inverse">
+            <tr>
+                <th>Nombre del Proveedor</th>
+                <th>Contacto del Proveedor</th>
+                <th>Cargo del Contacto</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Proveedores is not null)
+            {
+                @foreach(Supplier proveedor in Model.Proveedores)
+                {
+                    <tr>
+                        <td>@proveedor.CompanyName</td>                    
+                        <td>@proveedor.ContactName</td>                    
+                        <td>@proveedor.ContactTitle</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,42 @@
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.deps.json
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.pdb
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.csproj.AssemblyReference.cache
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.AssemblyInfoInputs.cache
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.AssemblyInfo.cs
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.csproj.CoreCompileInputs.cache
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\refint\NorthwindData.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.pdb
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\ref\NorthwindData.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.runtimeconfig.json
+C:\Users\apalm\source\repos\CSharp\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.genruntimeconfig.cache
+C:\Users\YONI\Desktop\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.deps.json
+C:\Users\YONI\Desktop\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.runtimeconfig.json
+C:\Users\YONI\Desktop\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.dll
+C:\Users\YONI\Desktop\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.pdb
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.csproj.AssemblyReference.cache
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.AssemblyInfoInputs.cache
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.AssemblyInfo.cs
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.csproj.CoreCompileInputs.cache
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.dll
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\refint\NorthwindData.dll
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.pdb
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.genruntimeconfig.cache
+C:\Users\YONI\Desktop\Northwind\NorthwindData\obj\Debug\net6.0\ref\NorthwindData.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.deps.json
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.runtimeconfig.json
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\bin\Debug\net6.0\NorthwindData.pdb
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.AssemblyInfo.cs
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\refint\NorthwindData.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.pdb
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\NorthwindData.genruntimeconfig.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\NorthwindData\obj\Debug\net6.0\ref\NorthwindData.dll

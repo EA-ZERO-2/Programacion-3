@@ -1,0 +1,26 @@
+﻿@page
+@functions
+{
+    public string? Fecha { get; set; }
+
+    public void OnGet()
+    {
+        ViewData["Title"] = "Northwind Web";
+        Model.Fecha = DateTime.Now.ToString("dd-MMM");
+    }
+}
+
+    <div class="jumbotron">
+        <h1 class="display-3">Bienvenidos a Northwind</h1>
+        <p class="lead">Distribuidora de Productos</p>
+        <hr/>
+        <p> Esta es una pagina razor </p>
+        <p>Hoy es @Model.Fecha !! Entre nuestros clientes se encuentran restaurantes, hoteles, cruceros, etc.</p>
+        <p>
+            <a class="btn btn-primary" href="proveedores">Aprenda mas de nuestros proveedores</a>
+        </p>
+        <p>
+            <a class="btn btn-danger" href="Categoria">Mostrar Categorias</a>
+        </p>
+    </div>
+    

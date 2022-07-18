@@ -1,0 +1,177 @@
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\appsettings.json
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Northwind.exe
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Northwind.deps.json
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Northwind.runtimeconfig.json
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Northwind.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Northwind.pdb
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.csproj.AssemblyReference.cache
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.AssemblyInfoInputs.cache
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.AssemblyInfo.cs
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\scopedcss\bundle\Northwind.styles.css
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\refint\Northwind.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.pdb
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.genruntimeconfig.cache
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\ref\Northwind.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Northwind.staticwebassets.runtime.json
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.RazorAssemblyInfo.cache
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.RazorAssemblyInfo.cs
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\NorthwindData.dll
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\bin\Debug\net6.0\NorthwindData.pdb
+C:\Users\apalm\source\repos\CSharp\Northwind\Northwind\obj\Debug\net6.0\Northwind.csproj.CopyComplete
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\appsettings.json
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Northwind.staticwebassets.runtime.json
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Northwind.exe
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Northwind.deps.json
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Northwind.runtimeconfig.json
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Northwind.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Northwind.pdb
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\NorthwindData.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\bin\Debug\net6.0\NorthwindData.pdb
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.csproj.AssemblyReference.cache
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.AssemblyInfoInputs.cache
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.AssemblyInfo.cs
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.RazorAssemblyInfo.cache
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.RazorAssemblyInfo.cs
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\scopedcss\bundle\Northwind.styles.css
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.csproj.CopyComplete
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\refint\Northwind.dll
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.pdb
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\Northwind.genruntimeconfig.cache
+C:\Users\YONI\Desktop\Northwind\Northwind\obj\Debug\net6.0\ref\Northwind.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Northwind.staticwebassets.runtime.json
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Northwind.exe
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Northwind.deps.json
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Northwind.runtimeconfig.json
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Northwind.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Northwind.pdb
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\NorthwindData.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\bin\Debug\net6.0\NorthwindData.pdb
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.AssemblyInfo.cs
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.RazorAssemblyInfo.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.RazorAssemblyInfo.cs
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\scopedcss\bundle\Northwind.styles.css
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.csproj.CopyComplete
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\refint\Northwind.dll
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.pdb
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\Northwind.genruntimeconfig.cache
+C:\Users\hp\Downloads\Northwind (1)\Northwind\Northwind\obj\Debug\net6.0\ref\Northwind.dll
